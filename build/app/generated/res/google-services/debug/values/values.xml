@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">966520309860-fdrh48h9roeimnvdk6egcqubh7ki5u3i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">966520309860</string>
+    <string name="google_api_key" translatable="false">AIzaSyAr0vPVmAiGPNUkHpvU1NTRBx0bvQiJMB8</string>
+    <string name="google_app_id" translatable="false">1:966520309860:android:e8631dd1173180af3df771</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAr0vPVmAiGPNUkHpvU1NTRBx0bvQiJMB8</string>
+    <string name="google_storage_bucket" translatable="false">airplane-87ee3.appspot.com</string>
+    <string name="project_id" translatable="false">airplane-87ee3</string>
+</resources>
